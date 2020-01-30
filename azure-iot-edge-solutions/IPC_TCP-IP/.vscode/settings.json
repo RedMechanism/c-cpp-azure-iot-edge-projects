@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "threadapi.h": "c",
+        "iothub_client_options.h": "c"
+    }
+}
