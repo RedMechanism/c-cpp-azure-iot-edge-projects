@@ -13,11 +13,6 @@ The easiest way to create modules outside the Azure portal is by using Visual St
 You need the following dev tools to do IoT Edge development in general, to make this sample run and edit it:
 - **Visual Studio Code**: IoT Edge development environment. [Download it from here](https://code.visualstudio.com/).
 - **Visual Studio Code: Azure IoT Edge Extension**: An extension that connects to your IoT Hub and lets you manage your IoT Devices and IoT Edge Devices right from VS Code. A must-have for IoT Edge development. [Download it from here](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-edge). Once installed, connect it to your IoT Hub.
-
->To learn more about this development environment, check out [this tutorial](https://docs.microsoft.com/en-us/azure/iot-edge/how-to-deploy-modules-vscode) and [this video](https://www.youtube.com/watch?v=C5eTQ1cwlLk&t=1s&index=35&list=PLlrxD0HtieHh5_pOv-6xsMxS3URD6XD52):
-
-[![Visual Studio Code Extension Video](../../figures/VSCodeExtensionVideo.png)](https://www.youtube.com/watch?v=C5eTQ1cwlLk&t=1s&index=35&list=PLlrxD0HtieHh5_pOv-6xsMxS3URD6XD52)
-
 - **Other prerequisites**: Check here for [Linux](https://docs.microsoft.com/en-us/azure/iot-edge/tutorial-develop-for-linux#prerequisites) and here for [Windows](https://docs.microsoft.com/en-us/azure/iot-edge/tutorial-develop-for-windows#prerequisites)
 
 ### To deploy the solution
